@@ -1,12 +1,13 @@
-# This is the official site for DcWebserver
-<h2> About DcWebserver</h2>
-
 # DcWebserver
+This is the official site for DcWebserver
+
 
 This is a nodejs module for discord bot makers, this module helps you host your bot on uptimer services as it opens a window and then all you have to do is to copy the address of the window and host it on a uptimer service 
 
 <!-- ![DcWebserver Logo](https://images-ext-1.discordapp.net/external/Ec1UJ1VZQdI1CeSPHZNnwxxMzCjtTu7msgkca7NDuGA/https/cdn.discordapp.com/avatars/933987789719109642/59734422bfd413c193671c6080da08da.webp)
+
  -->
+ 
  
  <img src="https://cdn.discordapp.com/avatars/933987789719109642/59734422bfd413c193671c6080da08da.png" alt="DcWebserver Logo" width="250"/>
 
@@ -49,7 +50,7 @@ Install and update using npm:
 
 
 
-    $ npm install DcWebserver
+    $ npm i dcwebserver
 
 # Developer 
 Made By [itzQuicksilver](https://github.com/QuicksilverYT) 
@@ -62,4 +63,4 @@ Made By [itzQuicksilver](https://github.com/QuicksilverYT)
 
 # License
 
-See [LICENSE](https://github.com/QuicksilverYT/DcWebserver/blob/main/LICENCE.txt) for more information.
+See [LICENSE](https://github.com/QuicksilverYT/DcWebserver/blob/main/LICENSE) for more information.
